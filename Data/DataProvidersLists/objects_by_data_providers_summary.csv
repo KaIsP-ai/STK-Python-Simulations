@@ -1,0 +1,230 @@
+﻿Data Provider,Satellite,Facility,Sensor
+Access Listing,75,75,75
+Active Constraints,14,14,14
+All Constraints,14,14,14
+Angles,21,6,3
+Articulation,11,11,
+Astrogator Accel Hist,1,,
+Astrogator Log,1,,
+Astrogator MCS Ephemeris Segments,6,,
+Astrogator Maneuver Ephemeris Block Final,254,,
+Astrogator Maneuver Ephemeris Block History,254,,
+Astrogator Maneuver Ephemeris Block Initial,254,,
+Astrogator Pass Data,377,,
+Astrogator Script Summary,1,,
+Astrogator Targeter Data,1,,
+Astrogator Terminal Stopping Condition,1,,
+Astrogator Values,377,,
+Attitude Quaternions,11,,
+Attitude Segment Description,1,,
+Attitude Segment ECF Quaternions,14,,
+Attitude Segment Euler Angles,84,,
+Attitude Segment Quaternions,14,,
+Attitude Segment Schedule,6,,
+Attitude Segment YPR,42,,
+Attitude YPR,42,,
+Available Times,2,2,2
+Axes Choose Axes,816,192,72
+Beta Angle,3,,
+Body Axes Orientation,1155,297,165
+Body Axes Orientation:YPR 123,1155,297,165
+Body Axes Orientation:YPR 132,1155,297,165
+Body Axes Orientation:YPR 213,1155,297,165
+Body Axes Orientation:YPR 231,1155,297,165
+Body Axes Orientation:YPR 312,1155,297,165
+Body Axes Orientation:YPR 321,1155,297,165
+Brouwer-Lyd Mean Long,110,,
+Brouwer-Lyd Mean Short,110,,
+Cartesian Acceleration,132,,
+Cartesian Position,48,3,
+Cartesian Velocity,84,,
+Classical Elements,210,,
+Close Approach Compute Results,1,,
+Close Approach Definition,1,,
+Close Approach Filter Settings,1,,
+CloseApproach,14,,
+CloseApproachByMinRange,14,,
+CloseApproachBySSC,14,,
+Collection of Interval Lists,4,4,8
+Condition,8,4,4
+Condition Set,28,28,28
+Configured Constraints,14,14,14
+Crdn Available Times,2,2,2
+Data Provider Detail,1,1,1
+Data Provider Summary,1,1,1
+DeckAccess,5,5,5
+DeckAccess Data,145,145,145
+Delaunay Elements,70,,
+ECF Attitude Quaternions,11,,
+Eclipse Definition,2,1,
+Eclipse Solar Intensity,5,,
+Eclipse Summary,19,,
+Eclipse Times,11,7,
+Ecliptic Crossings,16,,
+Element Set,5,,
+Ephemeris Diff,168,,
+Ephemeris Diff in Curvilinear Coordinates,9,,
+Equinoctial Elements,160,,
+Euler Angles,84,,
+Geo Station Keeping Elements,44,,
+Gravity Model,3,,
+Ground Ellipse Definition,12,,
+Heading,10,,
+IIRV User Input,14,,
+Interval,6,1,3
+Interval List,12,1,4
+Kozai-Izsak Mean,140,,
+LLA State,32,12,
+LLR State,84,3,
+LOP Mean Elements,70,,
+Launch Window Definition,1,,
+Lifetime,20,,
+Lighting AER,15,4,
+Lighting Times,48,12,
+Lunar Eclipse Solar Intensity,4,,
+MCS Summary,1,,
+Maneuver Summary,9,,
+Mass,7,,
+Mixed Spherical Elements,70,,
+Model Area,2,2,
+Model LOD 0 Articulations,9,8,
+Model LOD 1 Articulations,9,8,
+Modified Equinoctial Elements,150,,
+Moon AER,15,,
+Moon Vector,48,,
+Parameter Set: Attitude,214,214,321
+Parameter Set: Cartographic Trajectory,75,75,75
+Parameter Set: Orbit,123,1,1
+Parameter Set: Trajectory,46,46,46
+Parameter Set: Vector,1,1,1
+Pass Event Times,12,,
+Passes,40,,
+Planes Choose System,40,1,1
+Planes(Fixed),40,1,1
+Planes(ICRF),40,1,1
+Planes(Inertial),40,1,1
+Planes(J2000),40,1,1
+Pointing Covariance (Projection),11,,
+Points Choose Plane,54,27,27
+Points Choose System,132,66,66
+Points(Fixed),156,78,78
+Points(ICRF),132,66,66
+Points(Inertial),132,66,66
+Points(J2000),132,66,66
+Pos Vel Projected Covariance,1,,
+Pos Vel Rotated Covariance,1,,
+Position Covariance,1,,
+Position Covariance Choose Axes,1,,
+Position Covariance CrossSection,1,,
+Position Covariance CrossSection Choose Plane,1,,
+Position Covariance Projection,1,,
+Position Covariance Projection Choose Plane,1,,
+Position Covariance in Axes,1,,
+Precision Passes,3,,
+Propagator Inputs,1,,
+RIC Coordinates,25,,
+Relative Motion,25,,
+SEET Debris Flux,16,,
+SEET GCR Differential Fluence by Energy,4,,
+SEET GCR Differential Flux by Energy,4,,
+SEET GCR Integral Fluence by Energy,4,,
+SEET GCR Integral Flux by Energy,4,,
+SEET GCR Model,1,,
+SEET Magnetic Conjugacy,14,,
+SEET Magnetic Coordinates,27,,
+SEET Magnetic Field,22,,
+SEET Magnetic Field Model,1,,
+SEET Meteor Flux,10,,
+SEET Particle Distribution Fluence,16,,
+SEET Particle Fluence,16,,
+SEET Particle Flux Model,1,,
+SEET Radiation Accumulated Dose,23,,
+SEET Radiation Accumulated Dose By Thickness,15,,
+SEET Radiation Average Dose Rate,15,,
+SEET Radiation Average Dose Rate By Thickness,7,,
+SEET Radiation Dose Depth,5,,
+SEET Radiation Dose Rate,26,,
+SEET Radiation Dose Rate By Thickness,16,,
+SEET Radiation Flux,43,,
+SEET Radiation Flux by Energy,12,,
+SEET Radiation Integral Flux,43,,
+SEET Radiation Integral Flux by Energy,12,,
+SEET Radiation Model,1,,
+SEET SAA Contour Settings,1,,
+SEET SAA Crossing Times,13,,
+SEET SAA Flux Intensity,12,,
+SEET SEP Energy by Fluence,4,,
+SEET SEP Fluence by Probability per Energy,4,,
+SEET SEP Model,1,,
+SEET Vehicle Temperature,4,,
+SEET Vehicle Temperature Model,1,,
+STM Eigendecomposition,43,,
+Scalar Calculations,30,6,6
+Segment Summary,1,,
+Shadow LLA,16,,
+Solar Apparent Time,6,,
+Solar Intensity,8,7,
+Solar Panel Angles,3,,
+Solar Panel Area,4,,
+Solar Panel Area No Sum,4,,
+Solar Panel Power,3,,
+Solar Panel Power No Sum,3,,
+Solar Specular Point,10,,
+Spherical Elements,84,,
+State Transition Matrix,7,,
+Sun Vector,48,,
+Swath Points,24,,7
+TLE Residual Data,9,,
+TLE Set Data,8,,
+TLE Summary Data,13,,
+Time Array,6,2,4
+Time Instant,10,1,4
+True Anomaly Step,100,,
+User Supplied Data,1,1,1
+Vector Choose Axes,1562,330,154
+Vector Choose Plane,639,135,63
+Vectors(Body),1562,330,154
+Vectors(Fixed),1562,330,154
+Vectors(Fixed_VVLH),1562,,
+Vectors(ICRF),1562,330,154
+Vectors(Inertial),1562,330,154
+Vectors(J2000),1562,330,154
+Vectors(LVLH),1562,,
+Vectors(VNC),1562,,
+Vectors(VVLH(CBF)),1562,,
+Vectors(VVLH),1562,,
+Velocity Projected Covariance,1,,
+All Position,,24,
+Azimuth Elevation Mask,,3,3
+LaserCAT Clear Firing,,3,
+LaserCAT General Information,,1,
+LaserCAT Potential Victim,,8,
+LaserCAT Status Information,,4,
+LineOfSight Info,,12,
+RFI General Information,,1,
+RFI Potential Victim,,8,
+Terrain Info,,15,
+Boresight AzEl,,,3
+Boresight Grazing LLA,,,8
+Boresight Grazing LLR,,,4
+Boresight Intersection,,,8
+Boresight Intersection Lighting,,,36
+Boresight Intersection Times,,,9
+Boresight Vector,,,4
+Disk Obstruction Times,,,48
+EOIR Sensor Optics,,,7
+EOIR Sensor Performance,,,22
+EOIR Sensor To Target Metrics,,,18
+EOIR System Image Quality,,,6
+Footprint Area,,,6
+Footprint Area At Distance,,,8
+Number Of Stars In FOV,,,2
+Obscuration,,,5
+Pattern Angle Extremals Intersection,,,15
+Pattern Intersection,,,13
+Pattern Intersection At Distance,,,13
+Pattern Intersection Corners,,,15
+Pattern Intersection Extremals,,,13
+Refraction Settings,,,1
+Specular Point Times,,,14
+Target Schedule,,,4
