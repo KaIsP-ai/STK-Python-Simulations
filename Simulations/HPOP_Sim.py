@@ -28,10 +28,12 @@ from HelperFunctions.ScenarioCreation import (
     makeSensor
 )
 
-from HelperFunctions.HPOP_Settings import (
+from HelperFunctions.HPOP_ForceModel_Settings import (
     DragSettings,
     CentralBodyGravitySettings,
-    ThirdBodyGravitySettings
+    ThirdBodyGravitySettings,
+    SolarRadiationPressureSettings,
+    GeneralSettings
 )
 
 # STKEngine Settings
