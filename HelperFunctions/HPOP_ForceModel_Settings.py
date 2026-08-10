@@ -400,7 +400,7 @@ def SolarRadiationPressureSettings(
 
 """
 ----------------
-GeneralSettings:
+GeneralForceSettings:
 ----------------
 Updates certain general settings of the HPOP propagator.
 
@@ -413,13 +413,13 @@ Optional:
 - Use_Relativistic_Acceleration = Boolean describing whether relativistic acceleration should be included.
 """
 
-def GeneralSettings(
+def GeneralForceSettings(
     more_options,
 
     Satellite_Mass=None,
     Use_Relativistic_Acceleration=None
 ):
-    print("Updating general settings")
+    print("Updating general force settings")
 
     if Satellite_Mass is not None:
         more_options.static.satellite_mass = Satellite_Mass
@@ -433,4 +433,4 @@ def GeneralSettings(
     else:
         print("- No use relativistic acceleration specified, using default")
 
-    print("Finished updating general settings")
+    print("Finished updating general force settings")

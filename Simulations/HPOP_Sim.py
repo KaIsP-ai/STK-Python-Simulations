@@ -33,7 +33,7 @@ from HelperFunctions.HPOP_ForceModel_Settings import (
     CentralBodyGravitySettings,
     ThirdBodyGravitySettings,
     SolarRadiationPressureSettings,
-    GeneralSettings
+    GeneralForceSettings
 )
 
 # STKEngine Settings
